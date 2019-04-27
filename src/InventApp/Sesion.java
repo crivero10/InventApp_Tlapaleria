@@ -27,11 +27,9 @@ public class Sesion {
     public Date getFechaInicializacion() {
         return fechaInicializacion;
     }
-
     public void setFechaInicializacion(Date fechaInicializacion) {
         this.fechaInicializacion = fechaInicializacion;
     }
-
     public Date getFechaFinalizacion() {
         return fechaFinalizacion;
     }
